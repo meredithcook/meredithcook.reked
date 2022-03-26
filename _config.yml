@@ -1,5 +1,5 @@
 title: Meredith Cook
-logo: "images/logo.svg" # You can add own logo image.
+logo:  # You can add own logo image.
 description: Disturbing thoughts of a grantwriter.
 baseurl: "/reked" # The subpath of your site, e.g. /blog
 url: "meredithcook.ml" # The base hostname & protocol for your site, e.g. http://example.com
