@@ -3,7 +3,7 @@ layout: post
 title: My Favorite Parenting Advice
 date: 2022-03-26
 description: There is one piece of advice that, so far, I have received more than any other. It is always unsolicited. But I never get tired of hearing it. The phrasing may not always be the same but the message is. # Add post description (optional)
-img: daiga-ellaby-7edWO30e32k-unsplash.jpg # Add image post (optional)
+img: images/daiga-ellaby-7edWO30e32k-unsplash.jpg # Add image post (optional)
 tags: [parenting, children, family, joy, sanctification, parents, kids, toddlers, enjoy] # add tag
 GA: U263725632
 ---
