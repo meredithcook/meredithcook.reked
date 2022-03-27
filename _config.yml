@@ -15,8 +15,8 @@ email: meredithcook716@gmail.com # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
-hero-title: Raked Minimalistic Theme # Add your hero title
-hero-subtitle: For those who love simplicity # Add your hero subtitle
+hero-title: This is the day. # Add your hero title
+hero-subtitle: I will rejoice and be glad in it. # Add your hero subtitle
 hero-image: images/14.jpg # Add background image in section hero
 
 # Footer
