@@ -3,7 +3,7 @@ layout: post
 title: Climbing Up the Slide- A Reflection on Habit Changes
 date: 2022-02-05
 description: In 2020, I leaned into bad habits begun years earlier. It led me to the bottom of a downward spiral in my mental and emotional health. This is the difference changing my habits made to my spiritual, mental, and emotional well-being. # Add post description (optional)
-img: images/spiral.jpeg # Add image post (optional)
+image: images/spiral.jpeg # Add image post (optional)
 tags: [habits, mental health, emotional health, spiritual disciplines, entertainment] # add tag
 GA: U263725632
 ---
