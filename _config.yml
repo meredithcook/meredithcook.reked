@@ -11,11 +11,7 @@ author:
 
 # Contact links
 twitter: https://twitter.com/meredithcook716 # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
-email: mcook@sebts.edu # Add your Email address
+email: meredithcook716@gmail.com # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
@@ -30,7 +26,7 @@ footer-image: images/14.jpg # Add background image in footer
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 # Google Analytics
-google-analytics: "" # Add your identifier. For example UA-99631805-1.
+google-analytics: "U263725632" # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: "" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
