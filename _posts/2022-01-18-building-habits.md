@@ -3,7 +3,7 @@ layout: post
 title: Why I Shifted from Setting Goals to Building Habits
 date: 2022-01-19
 description: Rather focusing on a list of goals to achieve or New Year's resolutions to (not) follow, I have increasingly begun to speak and think in terms of habit building. # Add post description (optional)
-img: images/habits.jpeg # Add image post (optional)
+image: images/habits.jpeg # Add image post (optional)
 tags: [habits, new year, resolutions, disciplines] # add tag
 GA: U263725632
 ---
