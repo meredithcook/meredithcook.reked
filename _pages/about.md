@@ -11,7 +11,7 @@ I am a follower of Jesus Christ. Because of my sinful nature, I was separated fr
 
 I am married to  <a href="http://keelancook.com">this guy</a> and mom of two. These three humans are the greatest gift the Lord has given me after my salvation. I am super proud to be Keelan's wife but I'll not gross you out (or embarrass him) by gushing. I'm a stay-at-home working mom and am very thankful I get to both. Getting to spend every day with my kids—watching them grow and learn and develop— has been fun, exhausting, joyful, sanctifying, and everything in between.
 
-For the last five years, I have worked in content editing and writing for various missions organizations. I am now the Grant Coordinator for Southeastern Baptist Theological Seminary. I am new to this kind of work/writing and have no idea what I'm doing. But it's fun learning a new set of skills within an area that I really enjoy. 
+For the last five years, I have worked in content editing and writing for various missions organizations. I am now the Grant Coordinator for Southeastern Baptist Theological Seminary. I am new to this kind of work/writing and have no idea what I'm doing. But it's fun learning a new set of skills within an area that I really enjoy. I also have an M.Div in Missiology from Southeastern Baptist Theological Seminary. 
 
 Some other random facts about me: I love coffee and drink entirely too much but hey, I get up really early. I have the great misfortune of cheering for the South Carolina Gamecocks. "Where are you from?" has become a unexpectedly complicated question. I incorporate a Friends or The Office reference in conversation at least once a day, even if people don't catch it. I lived in Houston for five years and completely drank the Texas Kool-Aid. 
 
