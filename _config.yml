@@ -20,7 +20,7 @@ hero-subtitle: I will rejoice and be glad in it. # Add your hero subtitle
 hero-image: images/kyle-glenn-va80jk-OY2w-unsplash.jpg # Add background image in section hero
 
 # Footer
-footer-image: images/14.jpg # Add background image in footer
+footer-image: images/flowers.jpg # Add background image in footer
 
 # Comment Section (Disqus)
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
