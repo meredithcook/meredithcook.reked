@@ -16,7 +16,7 @@ email: meredithcook716@gmail.com # Add your Email address
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: This is the day. # Add your hero title
-hero-subtitle:  # Add your hero subtitle
+hero-subtitle: I will rejoice.  # Add your hero subtitle
 hero-image: images/kyle-glenn-va80jk-OY2w-unsplash.jpg # Add background image in section hero
 
 # Footer
