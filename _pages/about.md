@@ -13,6 +13,6 @@ I am married to  <a href="http://keelancook.com">this guy</a> and mom of two. Th
 
 For the last five years, I have worked in content editing and writing for various missions organizations. I am now the Grant Coordinator for Southeastern Baptist Theological Seminary. I am new to this kind of work/writing and have no idea what I'm doing. But it's fun learning a new set of skills within an area that I really enjoy. I also have an M.Div in Missiology from Southeastern Baptist Theological Seminary. 
 
-Some other random facts about me: I get up really early in the morning. Related, I love coffee and drink entirely too much. I have the great misfortune of cheering for the South Carolina Gamecocks. "Where are you from?" has become a unexpectedly complicated question. I incorporate a Friends or The Office reference in conversation probably once a day and most people don't catch it. I always have an unreasonably long to-do list. I love baking.  
+Some other random facts about me: I get up really early in the morning. Related, I love coffee and drink entirely too much. I have the great misfortune of cheering for the South Carolina Gamecocks. "Where are you from?" has become a unexpectedly complicated question. I incorporate a Friends or The Office reference in conversation probably once a day and most people don't catch it. I always have an unreasonably long to-do list. I love baking and eat homemade cookies like chips.  
 
 I write about Christian living, parenting, theology, and missions. Thanks for stopping by!
