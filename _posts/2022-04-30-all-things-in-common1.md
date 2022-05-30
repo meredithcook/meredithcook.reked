@@ -6,6 +6,7 @@ description: If we believe that Scripture is true, then we believe that the gosp
 img: images/race.jpeg  # Add image post (optional)
 tags: [gospel, unity, church] # add tag
 GA: U263725632
+published: false
 ---
 
 *Note: I wrote a version of the   [devotional below](https://www.flipsnack.com/hcpninc/day-13-of-awaken-houston.html?fbclid=IwAR0I0EsUrXwRR17QsfuGcbIs2-JOVVHHLTUwhmMpwbDR5IgQ0ZRhuJ6Xow) for the Houston Church Planting Network's annual season of prayer last year. I've added to it and updated it for this website.* 
