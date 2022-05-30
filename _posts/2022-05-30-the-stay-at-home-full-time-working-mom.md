@@ -3,7 +3,7 @@ layout: post
 title: The Full-Time-Stay-at-Home-Working-Mom (Part 1)
 date: 2022-05-31
 description: I get asked a lot how I both stay at home with my kids and work full time from home. While I am not an expert and I do not do this perfectly, this is my attempt to answer how I try to be both a present mom and a good employee.  # Add post description (optional)
-img:  # Add image post (optional)
+img:  charlesdeluvio-X9bJm702f_c-unsplash.jpg # Add image post (optional)
 tags: [work, parenting] # add tag
 GA: G-DHPTC39GDF
 ---
