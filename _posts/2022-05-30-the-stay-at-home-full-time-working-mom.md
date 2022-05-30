@@ -64,6 +64,6 @@ I realize that none of this is earth shattering information, but but I do think 
 It's constantly fascinating to me how staying at home with my kids is, in and of itself, a full-time job. Adding a full-time job on top of that has required me to be diligent about how I manage my time. I want to be a faithful employee and a good steward of the opportunities the Lord has given me. It is also important to me that I not just care for my kids by meeting their physical needs but that I am also present with them, playing with them, and enjoying them.
 
 
-
+<sub> Photo by charlesdeluvio on Unsplash </sub>
 
 
