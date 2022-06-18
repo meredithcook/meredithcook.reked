@@ -11,7 +11,7 @@ For about half of my working life post-college, I have had a remote job. I love 
 
 The transition to full-time work while remaining a stay-at-home mom created a need for me to significantly shift how I operate in my daily life. It is important to me that I am both present and involved with my kids, while also being a faithful employee.
 
-Since making the transition to full-time work, I've received a lot of comments and questions about how I am able to both stay at home with my kids and maintain a full-time job, usually along the lines of "How does that work?" While I am certainly no expert, I'll attempt to answer that question in two articles, hopefully providing a helpful framework for others who may find themselves in the same position.
+I've received a lot of comments and questions about how I am able to both stay at home with my kids and maintain a full-time job, usually along the lines of "How does that work?" While I am certainly no expert, I'll attempt to answer that question in two articles, hopefully providing a helpful framework for others who may find themselves in the same position.
 
 ## Context
 
@@ -49,7 +49,7 @@ I admit that I like this idea better than I execute it. I don't plan ahead very 
 
 I shower, so I don't have to take the time to do it in the morning. I review my task management app (my team uses Asana so I use it personally for simplicity's sake) and prioritize what I need to for the next day. I schedule the coffee maker to brew the next morning so the coffee is ready to drink when I get up. This is all really small stuff but it does make a big difference in my time management.
 
-### Meeting Deadlines
+### Meet Deadlines.
 
 The last measurable principle I use to determine if I'm being a good employee is by simply meeting deadlines, preferably without having to scramble or do much last minute work. This works in two directions. A decent bit of my work requires assistance and reviews from other offices or my superiors. Knowing that everyone is busy with their respective jobs, I try (to the best of my ability) to give enough advance notice of my needs so nobody is rushed when I have a deadline coming up. I also do not want to inhibit anyone else from doing their job by my lack of planning or foresight. 
 
