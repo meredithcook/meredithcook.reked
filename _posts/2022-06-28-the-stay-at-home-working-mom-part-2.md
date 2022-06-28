@@ -55,3 +55,7 @@ Second, the entire reason I work from home is so I can be present with and prior
 That does not mean that I cater to their every whim. I think it's important that they learn how to play independently and learn how to put others' needs before their own. They are starting to understand what it means when "Mommy is working" and how to wait on me to finish a work task when the need arises—which is not often.
 
 By the grace of God, I've been able to stay at home with my kids and work a full time job without neglecting either (at least most of the time!). This is an ongoing learning process and one that will change as my kids do. But if you find yourself in the same circumstances, I hope these principles will help you as you navigate this stay-at-home-working-parent world.
+
+
+<sub>Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/s/photos/working-mom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
