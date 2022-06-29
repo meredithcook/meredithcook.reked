@@ -2,9 +2,9 @@
 layout: post
 title: The Full-Time-Stay-at-Home-Working-Mom (Part 1)
 date: 2022-05-30
-description: I get asked a lot how I both stay at home with my kids and work full time from home. While I am not an expert and I do not do this perfectly, this is my attempt to answer how I try to be both a present mom and a good employee.  # Add post description (optional)
-img: images/workingmom.jpg # Add image post (optional)
-tags: [work, parenting] # add tag
+description: I get asked a lot how I both stay at home with my kids and work full time from home. While I am not an expert and I do not do this perfectly, this is my attempt to answer how I try to be both a present mom and a good employee.
+img:  images/workingmom.jpg
+tags: [work, parenting]
 GA: G-DHPTC39GDF
 ---
 For about half of my working life post-college, I have had a remote job. I love working from home. For me, the benefits far outweigh the challenges, though the challenges have certainly increased over the last couple of years. One of those challenges has simply been the addition of kids to the mix. The other challenge has been transitioning from part-time to full-time work in the last eight months—the first full-time job I have had since having the aforementioned kids. 
