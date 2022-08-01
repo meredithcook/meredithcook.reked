@@ -3,7 +3,7 @@ layout: post
 title: My Best Advice for Women Starting Seminary
 date: 2022-07-31
 description: A woman's seminary experience is unique.  After a decade of experience, conversations, and observations, this is my best advice for any female planning to go to seminary.   # Add post description (optional)
-img:   # Add image post (optional)
+img:  student.jpg # Add image post (optional)
 tags:  [women, seminary, theologial education] # add tag
 GA: U263725632
 ---
@@ -65,3 +65,6 @@ Don't be afraid to ask questions in class. To the best of your ability and withi
 If you are an on-campus student, join and serve a local church, even if you plan to move after you graduate. Your seminary education should never replace or distract you from meaningful membership in a local church. Rather, your seminary classes will work in tandem with your local church as you gain practical experience of what you are learning in class.   
 
 It is a blessing and privilege to receive a seminary education, one not afforded to many church members and one that's also not for everyone. However, if the Lord leads you to receive a theological education, you can be confident He will not waste your time there. A woman's experience in seminary is unique and the Lord may choose to use your time there in a plethora of ways. But my prayer is that you will consider it a blessing—an invaluable experience worth your investment of time and money.
+
+<sub>Photo by <a href="https://unsplash.com/@eliottreyna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eliott Reyna</a> on <a href="https://unsplash.com/s/photos/student?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
