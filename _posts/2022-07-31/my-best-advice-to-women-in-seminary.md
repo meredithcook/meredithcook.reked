@@ -1,4 +1,12 @@
-# My Best Advice for Women Starting Seminary
+---
+layout: post
+title: My Best Advice to Women in Seminary
+date: 2022-07-21
+description: A woman's seminary experience is unique.  After a decade of experience, conversations, and observations, this is my best advice for any female planning to go to seminary.   # Add post description (optional)
+img:   # Add image post (optional)
+tags: [seminary, women, theological education] # add tag
+GA: U263725632
+---
 
 It's been almost ten years since I moved to North Carolina to attend seminary. At the time, I thought the Lord might be calling me to be a missionary. I talked with my parents, friends, and a missions sending agency, trying to figure out what I should do with this calling. It was ultimately a timely conversation with another family member, who pointed me towards seminary. I determined that the best next step for me would be to pursue training and equipping at a seminary before going overseas. 
 
