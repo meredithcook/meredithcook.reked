@@ -3,7 +3,7 @@ layout: post
 title: My Best Advice for Women Starting Seminary
 date: 2022-07-31
 description: A woman's seminary experience is unique.  After a decade of experience, conversations, and observations, this is my best advice for any female planning to go to seminary.   # Add post description (optional)
-img:  /images/student.jpg # Add image post (optional)
+img:  ../images/student.jpg # Add image post (optional)
 tags:  [women, seminary, theological education] # add tag
 GA: G-DHPTC39GDF
 ---
