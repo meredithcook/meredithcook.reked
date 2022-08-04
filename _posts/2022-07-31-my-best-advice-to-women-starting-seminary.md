@@ -54,7 +54,7 @@ Humility doesn't always mean being silent when you think your view is right. How
 
 In general, I think we should not be insulted or offended by those whose interpretation of Scripture leads them to a more limited view of women's roles in the church. Let this be an encouragement to all of us to practice humility and realize that in our sinful nature, our interpretation of Scripture is limited. We may disagree, but we can do so in a way that is humble and respectful. Regardless of how others may receive us, we can trust the Lord to be faithful to us, guide us, and give us wisdom.
 
-## Lean in. 
+## 3. Lean in. 
 
 In the grand scheme of things, your time in seminary is short. There will not likely be another time in which you can focus so deeply on studies of God's word, doctrines, ecclesiology, and practical theology. 
 
