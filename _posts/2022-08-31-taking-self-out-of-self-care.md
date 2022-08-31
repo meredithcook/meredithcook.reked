@@ -3,7 +3,7 @@ layout: post
 title: Taking the Self Out of Self-Care
 date: 2022-08-31
 description: “Self-care” has become a prolific term for anyone who feels overextended, burned out, and busy. But I am concerned that the pursuit of self-care leads us to disobey Scripture.  # Add post description (optional)
-image: images/ # Add image post (optional)
+image: images/solitude.jpg # Add image post (optional)
 tags:  [self-care, spiritual disciplines, serving] # add tag
 GA: G-DHPTC39GDF
 ---
@@ -64,3 +64,6 @@ Perhaps God does intend for us to come to the end of ourselves, for only then ar
 
 
 *<sup>1</sup> I realize that my aversion to the term "self-care" is a bit extreme. I have only recently begun to comprehend how deep the waters of selfishness run in my own heart and I write from this perspective. There are other mature, Christian perspectives on self-care that I respect, such as <u> [this article](https://www.ubahouston.org/blog/good-news-for-the-over-and-underachiever)</u> from my friend, Marie.*
+
+<sup>Photo by <a href="https://unsplash.com/@trfotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Toni  Reed</a> on <a href="https://unsplash.com/s/photos/solitude?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup>
+  
