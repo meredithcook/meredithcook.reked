@@ -1,5 +1,5 @@
 title: Meredith Cook
-logo: images/favicon.jpg # You can add own logo image.
+logo: # You can add own logo image.
 description: Musings on honoring Christ, parenting, theology, and missions.
 baseurl: # The subpath of your site, e.g. /blog
 url: "meredithcook.ml" # The base hostname & protocol for your site, e.g. http://example.com
@@ -21,7 +21,7 @@ hero-image: images/kyle-glenn-va80jk-OY2w-unsplash.jpg # Add background image in
 
 # Footer
 footer-image: images/flowers2.jpg # Add background image in footer
-footer-title: As an Amazon Associate I earn from qualifying purchases.
+
 
 # Comment Section (Disqus)
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
