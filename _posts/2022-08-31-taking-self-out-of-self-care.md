@@ -63,7 +63,7 @@ Perhaps God does intend for us to come to the end of ourselves, for only then ar
 ---
 
 
-*<sup>1</sup> I realize that my aversion to the term "self-care" is a bit extreme. I have only recently begun to comprehend how deep the waters of selfishness run in my own heart and I write from this perspective. There are other mature, Christian perspectives on self-care that I respect, such as [this article](https://www.ubahouston.org/blog/good-news-for-the-over-and-underachiever) from my friend, Marie.*
+*<sup>1</sup> I realize that my aversion to the term "self-care" is a bit extreme. I have only recently begun to comprehend how deep the waters of selfishness run in my own heart and I write from this perspective. There are other mature, Christian perspectives on self-care that I respect, such as <u><a href="https://www.ubahouston.org/blog/good-news-for-the-over-and-underachiever">this article</a></u> from my friend, Marie.*
 
 <sup>Photo by <a href="https://unsplash.com/@trfotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Toni  Reed</a> on <a href="https://unsplash.com/s/photos/solitude?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup>
   
