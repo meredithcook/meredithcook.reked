@@ -3,7 +3,7 @@ layout: post
 title: Important Qualities of Servant Leaders
 date: 2022-09-30
 description: When I think about the qualities I have observed in servant leaders, these are the three qualities that stand out the most to me. These are the ones I most hope to demonstrate in any leadership opportunity the Lord may give me.  # Add post description (optional)
-image: images/ # Add image post (optional)
+image: images/servantleader.jpg # Add image post (optional)
 tags:  [servant leadership, leader, character] # add tag
 GA: G-DHPTC39GDF
 ---
@@ -55,3 +55,6 @@ It all may be summed up in Philippians 2, which has become a passage I've medita
 > *Do nothing out of selfish ambition or conceit, but in humility consider others as more important than yourselves. Everyone should look not to his own interests, but rather to the interests of others. Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant,being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.*
 
 Though we may encounter many great examples of servant leaders, our goal should always be to imitate Christ above all. Christ, who washed His disciples disgusting feet, compels us to humbly serve others regardless of our official roles or titles. He gives us the sustaining grace we need for each day, which allows us to pour ourselves out for the sake of those we lead. 
+
+<sub> Photo by <a href="https://unsplash.com/@tobiasmrzyk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tobias Mrzyk</a> on <a href="https://unsplash.com/s/photos/team?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> </sub>
+  
