@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm Writing a Children's Book
-date: 2022-10-20
+date: 2022-10-18
 description: The story behind my children's book.  # Add post description (optional)
 image: images/write.jpg # Add image post (optional)
 tags:   book, writing, children # add tag
