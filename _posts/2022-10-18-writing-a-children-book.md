@@ -3,7 +3,7 @@ layout: post
 title: I'm Writing a Children's Book
 date: 2022-10-20
 description: The story behind my children's book.  # Add post description (optional)
-image: images/ # Add image post (optional)
+image: images/write.jpg # Add image post (optional)
 tags:   book, writing, children # add tag
 GA: G-DHPTC39GDF
 ---
@@ -23,3 +23,6 @@ The thought had never crossed my mind. I am not a visionary but I am married to 
 It was this past June when I finally made some progress on turning this dream into a reality. On a business trip with some others from the seminary, I mentioned my idea to one of our VPs, who used to work for the same publisher that will be publishing my book. Long story short, he was able to get me connected with the publisher at B&H Kids, who kindly offered me a contract to write a book about missions and missionaries for children ages 0-3.
 
 I'm so thankful for and excited about this opportunity. Lord willing, this book will be published in May 2024. My prayer is that it will be a good starting place for parents who want to teach their kids about missions from infancy and that God will use it to help kids understand and obey His Great Commission.
+
+<sub>Photo by <a href="https://unsplash.com/@laurenmancke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lauren Mancke</a> on <a href="https://unsplash.com/s/photos/write?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
