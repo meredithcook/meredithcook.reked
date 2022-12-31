@@ -3,7 +3,7 @@ layout: post
 title: My Favorite Reads of 2022
 date: 2022-12-29
 description: Adding my favorite reads of 2022 to the millions of blog posts that have already done the same thing.
-image: images/ # Add image post (optional) # add tag
+image: images/reading.jpg # Add image post (optional) # add tag
 GA: G-DHPTC39GDF
 ---
 
@@ -29,3 +29,6 @@ This is perhaps another unusual choice, but I read a ton of children's books. Bo
 
 ["Much Will Be Required"](https://www.challies.com/articles/much-will-be-required/)
 I read a lot of articles throughout the year, but most of them slip my mind even if the content is good. However, I won't soon forget this article from Tim Challies. Like Paul Tripp, Challies's writing has been quite impactful on me over the last couple of years. Challies's article "Much Will Be Required" is one that can only be written by a person who has experienced the kind of painful trial like what he experienced in the loss of his son. He challenges his audience to consider how we might steward even our trials for the sake of God's glory. It's a perspective I have never heard before, but it's one I'll be sitting on for a while.
+
+<sub>Photo by <a href="https://unsplash.com/@johnnymcclung?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johnny McClung</a> on <a href="https://unsplash.com/photos/RjdoQxJ7-5k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
