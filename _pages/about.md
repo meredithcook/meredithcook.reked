@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: images/headshot.png
+image: images/1E7A0295.jpg
 ---
 
 Welcome! My name is Meredith Cook. 
