@@ -7,7 +7,7 @@ image: images/reading.jpg # Add image post (optional) # add tag
 GA: G-DHPTC39GDF
 ---
 
-Over the last ten years, my reading habits have gone through many shifts. In my current season, I average about ten books a year, give or take a few, plus articles and countless children's books. You'll notice that I rarely read books the year they are published. Basically, I read what I feel like I need or want to read at any given moment. I often read more than one book at a time and I am a slow reader, so I don't get through many books in a year. With that in mind, these are some of my favorite reads of this year.
+Over the last ten years, my reading habits have gone through many shifts. In my current season, I average about ten books a year, give or take a few, plus articles and countless children's books. You'll notice that I rarely read books the year they are published. I'm not the most proactive or purposeful reader. Basically, I read what I feel like I need or want to read at any given moment. I often read more than one book at a time and I am a slow reader, so I don't get through many books in a year. With that in mind, these are some of my favorite reads of this year.
 
 <u><a href="https://amzn.to/3Q2OfYh"><i>Everything Sad is Untrue</i></a></u>
 
