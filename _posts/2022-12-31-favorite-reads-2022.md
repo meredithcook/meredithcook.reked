@@ -11,7 +11,7 @@ Over the last ten years, my reading habits have gone through many shifts. In my 
 
 <u><a href="https://amzn.to/3Q2OfYh"><i>Everything Sad is Untrue</i></a></u>
 
-Though this book was published in 2020, it seems like everyone I follow on Twitter discovered it just this year. Though the writing style took some getting used to, by the end of it, I felt as if I'd just spent significant time across a table with the author as he told his story of becoming a refugee. Reading it reminded me of the refugee families I've spent time with, whose stories I still don't know due to language barriers and my lack of knowing what kind of questions to ask. In the future, I believe this book will help me know how to talk to other refugees about their stories. 
+This book was published in 2020, but it seems like everyone I follow on Twitter discovered it just this year. Though the writing style took some getting used to, by the end of it, I felt as if I'd just spent significant time across a table with the author as he told his story of becoming a refugee. Reading it reminded me of the refugee families I've spent time with, whose stories I still don't know due to language barriers and my lack of knowing what kind of questions to ask. In the future, I believe this book will help me know how to talk to other refugees about their stories. 
 
 <u><a href="https://amzn.to/3IesUZW"><i>How People Change</i></a></u>
 
