@@ -27,7 +27,7 @@ In his book, *Terms of Service*, Chris Martin helps us understand the inner work
 
 <u><a href="https://amzn.to/3Gw756Z"><i>Little Women</i></a></u>
 
-I'm sure this is a bit of an odd choice for a "best reading" list written in 2022, but this was the first time I have ever read through the book. For probably over 20 years, the Wynona Ryder version of the *Little Women* film has been one of my all-time favorite movies. I love it so much. So, I finally decided to take the time to read through the book and I can't remember a time I got so much enjoyment from reading. It took me a while—probably 2 months—to read through the entire book but reading slowly only added to my enjoyment of the story. This is a book I wish I could read for the first time again. 
+I'm sure this is a bit of an odd choice for a "best reading" list written in 2022, but this was the first time I have ever read through the book. For over 20 years, the Wynona Ryder version of the *Little Women* film has been one of my all-time favorite movies. I love it so much. So, I finally decided to take the time to read through the book and I can't remember a time I got so much enjoyment from reading. It took me a while—probably 2 months—to read through the entire book but reading slowly only added to my enjoyment of the story. This is a book I wish I could read for the first time again. 
 
 <u><a href="https://amzn.to/3G63rz9"><i>Sounding Joy</i></a></u>
 
