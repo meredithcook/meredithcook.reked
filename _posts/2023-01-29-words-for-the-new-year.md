@@ -3,7 +3,7 @@ layout: post
 title: Words for the New Year
 date: 2023-1-29
 description: Reflections on the pursuit of Christlikeness in the new year.
-image: images/ # Add image post (optional) # add tag
+image: images/sacrifice.jpg # Add image post (optional) # add tag
 GA: G-DHPTC39GDF
 ---
 
@@ -13,9 +13,9 @@ Over the past few years, I have done the same, though not necessarily with the i
 
 ## A Brief Background
 
-I [have written before](https://meredithcook.ml/2022/02/05/climbing-the-slide/) about bad habits, my struggles with my emotions, and the subtle-yet-serious ways in which I lost my taste for the Lord and His word. Through that season, the Lord revealed the myriad of ways in which I had leaned into sinful thought patterns and how they manifested themselves outwardly. I was discontent, ungrateful, and self-centered. 
+I <a href="https://meredithcook.ml/2022/02/05/climbing-the-slide"> have written before </a> about bad habits, my struggles with my emotions, and the subtle-yet-serious ways in which I lost my taste for the Lord and His word. Through that season, the Lord revealed the myriad of ways in which I had leaned into sinful thought patterns and how they manifested themselves outwardly. I was discontent, ungrateful, and self-centered. 
 
-On paper, those traits don't seem like *that* big of a deal. In fact, others may read this and scoff, wishing they could trade their sin struggles with mine—for discontentment, ungratefulness, and selfishness are tolerable, what Jerry Bridges would call "respectable sins" in his [book of the same name](https://amzn.to/3WHvj2R). But, subtle sins left unchecked are just as disastrous and are just as responsible for my separation from God as more "overt" sins. 
+On paper, those traits don't seem like *that* big of a deal. In fact, others may read this and scoff, wishing they could trade their sin struggles with mine—for discontentment, ungratefulness, and selfishness are tolerable, what Jerry Bridges would call "respectable sins" in his <a href="https://amzn.to/3WHvj2R"> book of the same name </a>. But, subtle sins left unchecked are just as disastrous and are just as responsible for my separation from God as more "overt" sins. 
 
 In 2020, I had everything I'd ever wanted (pandemic notwithstanding). Instead of being grateful for the generosity and kindness with which God had given me all of these gifts, I was filled with entitlement and discontent. I was fearful that though I had a good life, things would still not go how I wanted them to go. I did not trust the Lord and I doubted His goodness even in the midst of his blessings. I was marked by an utter lack of joy. 
 
@@ -37,6 +37,7 @@ In 2023, joyful sacrifice is at the forefront of my mind. I am passively given m
 
 
 
-
+<sub>Photo by <a href="https://unsplash.com/@eliottreyna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eliott Reyna</a> on <a href="https://unsplash.com/s/photos/sacrifice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
 
 
