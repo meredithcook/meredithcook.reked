@@ -23,7 +23,7 @@ I finally began to see just how much my "subtle" sin was an affront to God, who 
 
 ## Words for 2023
 
-As the Lord has increasingly and graciously revealed the depth of particular sins in my life, the converse of each those sins has become my pursuit over the last few years. 
+As the Lord has increasingly and graciously revealed the depth of particular sins in my life, the converse of each of those sins has become my pursuit over the last few years. 
 
 In 2021 and 2022, I intentionally pursued contentment and gratitude, studying Scripture on these qualities, building in habits, and working to replace sinful thought patterns that led to these qualities in the first place. Contentment and gratitude may always be a struggle, but I can say that the Lord has been gracious to soften my heart and develop a more content and grateful spirit within me over the last year.
 
