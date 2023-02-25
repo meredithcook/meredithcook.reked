@@ -10,7 +10,7 @@ A few years ago, my husband and I both read <a href="https://amzn.to/3XWdu0A"><i
 
 At the time, our daughter was just a year old and I was pregnant with our son. We had no idea where to start—seriously, how do you teach spiritual disciplines to a squirmy toddler? But we felt it was vital to start incorporating these important habits in our kids' daily routines while they were still very young. After all, while our kids spend the majority of their time with us now, there are only a few short years before that dratically changes as they start school and extracurriculars. There was no better time to start building a foundation of biblical truth than then. 
 
-Our kids are now three and two, and we've developed some habits in our routines that have allowed us introduce a few spiritual disciplines to our kids. We're by no means experts at this, but over three articles, I'll describe what we've done to begin introducing spiritual disciplines to our toddlersand institute family worship as part of our routine. 
+Our kids are now three and two, and we've developed some habits in our routines that have allowed us to introduce a few spiritual disciplines to our kids. We're by no means experts at this, but over three articles, I'll describe what we've done to begin introducing spiritual disciplines to our toddlersand institute family worship as part of our routine. 
 
 ## Bible Stories
 
