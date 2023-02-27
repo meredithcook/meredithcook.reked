@@ -8,7 +8,7 @@ GA: G-DHPTC39GDF
 ---
 A few years ago, my husband and I both read <a href="https://amzn.to/3XWdu0A"><i>Family Worship</i></a>, by Donald Whitney. We already shared the conviction that we are the primary disciplers of our children, but this short book convinced us to begin incorporating patterns of worship and spiritual disciplines in our home as part of our kids' discipleship.
 
-At the time, our daughter was just a year old and I was pregnant with our son. We had no idea where to start—seriously, how do you teach spiritual disciplines to a squirmy toddler? But we felt it was vital to start incorporating these important habits in our kids' daily routines while they were still very young. After all, while our kids spend the majority of their time with us now, there are only a few short years before that dratically changes as they start school and extracurriculars. There was no better time to start building a foundation of biblical truth than then. 
+At the time, our daughter was just a year old and I was pregnant with our son. We had no idea where to start—seriously, how do you teach spiritual disciplines to a squirmy toddler? But we felt it was vital to start incorporating these important habits in our kids' daily routines while they were still very young. After all, while our kids spend the majority of their time with us now, there are only a few short years before that drastically changes as they start school and extracurriculars. There was no better time to start building a foundation of biblical truth than then. 
 
 Our kids are now three and two, and we've developed some habits in our routines that have allowed us to introduce a few spiritual disciplines to our kids. We're by no means experts at this, but over three articles, I'll describe what we've done to begin introducing spiritual disciplines to our toddlersand institute family worship as part of our routine. 
 
@@ -30,7 +30,7 @@ But convenience, ease, and even immediate effectiveness are not the point. Justi
 
 My husband and I desire to make God's word a normal part of our daily routine. Though we don't yet regularly read the actual Bible to our kids, I do give them access to my Bible so they can become familiar with the look and feel of it. Every once in a while, they ask me to read a random passage that they've found, and I do. Sometimes my daughter will pick it up and pretend to read one of the stories she's heard us read every day from the <i>Jesus Storybook Bible</i>. I want the Bible to be accessible and familiar to them, even if they lose interest or have trouble understanding it right now. 
 
-Right now, though, we are teaching them Bible stories and helping them understand the Grand Narrative of Scripture.  Already we're seeing our kids—particularly our daughter— remember details, characters, and connect the dots between stories. We will eventually begin reading the actual Bible with them as they get older, and by then they'll already be familiar with many of the stories contained in it. 
+Right now, though, we are teaching them Bible stories and helping them understand the Grand Narrative of Scripture. Already we're seeing our kids—particularly our daughter— remember details, characters, and connect the dots between stories. We will eventually begin reading the actual Bible with them as they get older, and by then they'll already be familiar with many of the stories contained in it. 
 
 
 
