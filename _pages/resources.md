@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+permalink: /resources/
 nav_order: 2
 has_children: true
 ---
