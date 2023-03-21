@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Habit Formation
-parent: resources
+permalink: /resources/habitformation/
+parent: Resources.md
 nav_order: 1
 ---
 
