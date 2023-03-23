@@ -3,7 +3,8 @@ layout: post
 title: Introducing Spiritual Disciplines to Our Toddlers- The Bible
 date: 2023-2-25
 description: As parents, we are convinced that we are the primary disciplers of our children. We have found two ways to help our children learn the Bible and incorporate it in our family's daily routine.
-image: images/kidbible.jpg # Add image post (optional) # add tag
+image: images/kidbible.jpg # Add image post (optional)
+tags: [spiritual disciplines, parenting, children, discipleship, bible]
 GA: G-DHPTC39GDF
 ---
 A few years ago, my husband and I both read <a href="https://amzn.to/3XWdu0A"><i>Family Worship</i></a>, by Donald Whitney. We already shared the conviction that we are the primary disciplers of our children, but this short book convinced us to begin incorporating patterns of worship and spiritual disciplines in our home as part of our kids' discipleship.
