@@ -30,7 +30,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 google-analytics: G-DHPTC39GDF # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
-mailchimp: "https://meredithcook.us10.list-manage.com/subscribe/post?u=aeb55c4fbf6ec0d2a320ea920&amp;id=f08b20c1d2&amp;f_id=0050d1e5f0" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: "meredithcook.us10.list-manage.com/subscribe/post?u=aeb55c4fbf6ec0d2a320ea920&amp;id=f08b20c1d2&amp;f_id=0050d1e5f0" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Build settings
 markdown: kramdown
