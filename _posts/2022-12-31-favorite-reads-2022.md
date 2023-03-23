@@ -4,7 +4,7 @@ title: My Favorite Reads of 2022
 date: 2022-12-29
 description: Adding my favorite reads of 2022 to the millions of blog posts that have already done the same thing.
 image: images/reading.jpg # Add image post (optional)
-tags: [books, resources]
+tags: [book, resources, reading]
 GA: G-DHPTC39GDF
 ---
 
