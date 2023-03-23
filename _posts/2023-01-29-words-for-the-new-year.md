@@ -3,7 +3,8 @@ layout: post
 title: Words for the New Year
 date: 2023-1-29
 description: Reflections on the pursuit of Christlikeness in the new year.
-image: images/sacrifice.jpg # Add image post (optional) # add tag
+image: images/sacrifice.jpg # Add image post (optional)
+tags: [new year, joy, sacrifice]
 GA: G-DHPTC39GDF
 ---
 
