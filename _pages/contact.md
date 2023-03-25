@@ -25,4 +25,3 @@ If you'd like to get in touch, you can use the form below. It will send me an em
   <p>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-</form>
