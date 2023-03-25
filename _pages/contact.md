@@ -10,18 +10,17 @@ If you'd like to get in touch, you can use the form below. It will send me an em
 <form
   action="https://formspree.io/f/moqznrld"
   method="POST"
-  >
+>
   <label>
     Your email:<br>
     <input type="email" name="email">
   </label>
   <p>
-  <p>
   <label>
-    Your question or comment:<br>
-    <textarea name="message" rows="15" cols="75"></textarea>
+    Your message:<br>
+    <textarea name="message" rows="15" cols="70"></textarea>
   </label>
-  <p>
   <p>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
+</form>
