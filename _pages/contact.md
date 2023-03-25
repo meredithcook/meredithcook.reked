@@ -20,7 +20,7 @@ If you'd like to get in touch, you can use the form below. It will send me an em
     <p>
     <p>
     <label for="message">Message</label><br>
-    <textarea rows="19"cols="70" name="message" id="message" placeholder="Type your comment or question here." required=""></textarea>
+    <textarea rows="19" cols="70" name="message" id="message" placeholder="Type your comment or question here." required=""></textarea>
     <p>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
