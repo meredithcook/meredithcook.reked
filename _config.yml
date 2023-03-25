@@ -2,16 +2,16 @@ title: Meredith Cook
 logo: # You can add own logo image.
 description: Musings on honoring Christ, parenting, theology, and missions.
 baseurl: # The subpath of your site, e.g. /blog
-url: "meredithcook.ml" # The base hostname & protocol for your site, e.g. http://example.com
+url: "meredithcook.net" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
   name: Meredith Cook
-  bio: My name is Meredith Cook. I am married to this guy and mom of two. I'm the Grant Coordinator for Southeastern Baptist Theological Seminary, where I received an M.Div in Missiology. I write about Christian living, parenting, theology, and missions.
+  bio: My name is Meredith Cook. I am married to this guy and mom of two. I am the Grant Coordinator for Southeastern Baptist Theological Seminary, where I received an M.Div in Missiology. I write about Christian living, parenting, theology, and missions.
 
 # Contact links
 twitter: https://twitter.com/meredithcook716 # Add your Twitter handle
-email: meredithcook716@gmail.com # Add your Email address
+email: mcook@sebts.edu # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
@@ -38,7 +38,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
+  - jekyll-tagging
   - jekyll-feed
 
 
