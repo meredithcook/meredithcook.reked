@@ -5,7 +5,6 @@ permalink: /contact/
 image:
 ---
 
-# Contact Me:
 If you'd like to get in touch, you can use the form below. It will send me an email with your question or comment.
 
 <form
