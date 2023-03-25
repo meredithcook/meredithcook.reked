@@ -19,7 +19,7 @@ If you'd like to get in touch, you can use the form below. It will send me an em
   <p>
   <label>
     Your question or comment:<br>
-    <textarea name="message" rows="15" cols="80"></textarea>
+    <textarea name="message" rows="15" cols="75"></textarea>
   </label>
   <p>
   <p>
