@@ -5,6 +5,3 @@ gem "jekyll-paginate"
 gem "jekyll-tagging"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
-
-group :jekyll_plugins do
-  gem 'jekyll-tagging'
