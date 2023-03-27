@@ -11,6 +11,6 @@ I am married to Keelan and a [stay-at-home-working mom](https://meredithcook.net
 
 Now, I write mostly on lessons I'm learning about parenting, habit formation, and the general Christian life. In addition to this blog, I'm writing a children's board book about [the Great Commission and missionaries](https://meredithcook.net/2022/10/18/writing-a-children-book/) with [B&H Kids](https://www.bhpublishinggroup.com/categories/kids/), scheduled to release in Spring 2024. 
 
-When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, reading, and baking. You can also find me on [Twitter](twitter.com/meredithcook716), where I regularly interrupt your timeline with really boring tweets. 
+When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, reading, and baking. You can also find me on [Twitter](https://twitter.com/meredithcook716), where I regularly interrupt your timeline with really boring tweets. 
 
 Thanks for stopping by!
