@@ -53,3 +53,5 @@ Our kids' prayers mirror our own. Though my personal prayers include other types
 
 This is not a bad thing—of course, I want my kids to recognize and be thankful that all we are and all we have comes from the Lord. I also want them to begin learning how to recognize who God is in prayer, to ask for forgiveness, and to know that they can come to Him with their requests. I want to teach them how to listen and be attuned to the Spirit in prayer. These are weaknesses of my own that, now that I have kids to disciple, are aspects of prayer that I need to work on in my own life as I teach my kids to pray. 
 
+<sub>Photo by <a href="https://unsplash.com/fr/@davidbeale?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">David Beale</a> on <a href="https://unsplash.com/photos/YGJyFwmEC68?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
+  
