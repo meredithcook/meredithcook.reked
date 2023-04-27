@@ -40,8 +40,6 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-
-
 paginate: 4
 paginate_path: "/page/:num"
 
