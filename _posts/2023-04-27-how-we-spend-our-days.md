@@ -13,7 +13,7 @@ I've also noticed the frequency at which the people around me bemoan the busynes
 
 Other people I talk to are in a different camp—they aspire to do more but are unsure where to start. Some have been given opportunities but don't know if they have the bandwidth to say "yes." Some would simply like to be more disciplined and productive. Some are convicted that they're not stewarding their time well. 
 
-In three articles, I hope to encourage anyone who feels overwhelmed by everything they're juggling or would like to add more to their plate. Regardless of where you fall, I'm convinced that strategic habit-building is the place to start. In this first article, I will summarize what I've learned from studying habits and how they relate to time management. In the second article, I will dive deeper into a proper motivation for habit formation. In the final article, I will practically apply the discussions of the first two articles.
+In four articles, I hope to encourage anyone who feels overwhelmed by everything they're juggling or would like to add more to their plate. Regardless of where you fall, I'm convinced that strategic habit-building is the place to start. In this first article, I will summarize what I've learned from studying habits and how they relate to time management. In the second article, I will dive deeper into a proper motivation for habit formation. In the last two articles, I will practically apply the discussions of the first two articles.
 
 ## What is a habit?
 
