@@ -23,7 +23,7 @@ Psalm 118:24 now lives semi-permanently on the letter board in my kitchen, besid
 
 I felt like I gained a fresh perspective on this recently, when I was down for the count with a decently bad headache. I rarely get sick—particularly with a headache—in a way that renders me unable to do much of anything. I'm also a terrible sick person, which combined with a case of hypochondria, left me in a horrible mood. I spent the morning trying to rest—but actually rest, not just lay around. By that I mean I tried to find the peace and rest that can only come from dwelling in the Lord and trusting that He orders my steps each day. 
 
-I listened to worship music, prayed, walked around my neighborhood, took a bath, and read portions of books that I thought might help me renew my mind. I came across the entry for a "sick day" in **<a href= "https://amzn.to/45bBaBO" target="_blank">*Every Moment Holy*</a>. One passage of the liturgy read: 
+I listened to worship music, prayed, walked around my neighborhood, took a bath, and read portions of books that I thought might help me renew my mind. I came across the entry for a "sick day" in <a href= "https://amzn.to/45bBaBO" target="_blank">*Every Moment Holy*</a>. One passage of the liturgy read: 
 
 >*A day such as this, in which I endure  
 >a measure of sickness or unease,  
