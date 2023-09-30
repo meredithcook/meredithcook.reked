@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Examples and Resources for Habit Formation and Time Management
-date: 2023-8-02
+date: 2023-08-02
 description: When determining what habits to practice, consider your schedule, commitments, and values. I use a three-tiered system for habit formation and time management.
 image: images/habittracking.jpg # Add image post (optional)
 tags: [habits, habit-formation, time-management]
